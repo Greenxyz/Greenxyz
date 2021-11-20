@@ -1,6 +1,6 @@
 ![Greenx](https://cdn.discordapp.com/attachments/870306815643111445/911728276421087253/Icon__.jpg)
-Greenx
 ![status](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/-Ghost-15171Alogo=&logoColor=fff">
 
 <!--
 **Greenxyz/Greenxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
